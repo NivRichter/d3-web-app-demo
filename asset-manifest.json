@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/d3-web-app-demo/static/css/main.5f361e03.chunk.css",
-    "main.js": "/d3-web-app-demo/static/js/main.37b71a02.chunk.js",
-    "main.js.map": "/d3-web-app-demo/static/js/main.37b71a02.chunk.js.map",
+    "main.css": "/d3-web-app-demo/static/css/main.fb936c8d.chunk.css",
+    "main.js": "/d3-web-app-demo/static/js/main.739ad3a5.chunk.js",
+    "main.js.map": "/d3-web-app-demo/static/js/main.739ad3a5.chunk.js.map",
     "runtime-main.js": "/d3-web-app-demo/static/js/runtime-main.36d605f1.js",
     "runtime-main.js.map": "/d3-web-app-demo/static/js/runtime-main.36d605f1.js.map",
-    "static/js/2.e752c38f.chunk.js": "/d3-web-app-demo/static/js/2.e752c38f.chunk.js",
-    "static/js/2.e752c38f.chunk.js.map": "/d3-web-app-demo/static/js/2.e752c38f.chunk.js.map",
+    "static/css/2.aba519ac.chunk.css": "/d3-web-app-demo/static/css/2.aba519ac.chunk.css",
+    "static/js/2.bf765878.chunk.js": "/d3-web-app-demo/static/js/2.bf765878.chunk.js",
+    "static/js/2.bf765878.chunk.js.map": "/d3-web-app-demo/static/js/2.bf765878.chunk.js.map",
     "index.html": "/d3-web-app-demo/index.html",
-    "precache-manifest.925641f530eb9b89530b1fc9703a98e6.js": "/d3-web-app-demo/precache-manifest.925641f530eb9b89530b1fc9703a98e6.js",
+    "precache-manifest.3fa1d5e0b1cf032a428af4808b655043.js": "/d3-web-app-demo/precache-manifest.3fa1d5e0b1cf032a428af4808b655043.js",
     "service-worker.js": "/d3-web-app-demo/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/d3-web-app-demo/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.e752c38f.chunk.js.LICENSE.txt": "/d3-web-app-demo/static/js/2.e752c38f.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/d3-web-app-demo/static/media/logo.5d5d9eef.svg"
+    "static/css/2.aba519ac.chunk.css.map": "/d3-web-app-demo/static/css/2.aba519ac.chunk.css.map",
+    "static/css/main.fb936c8d.chunk.css.map": "/d3-web-app-demo/static/css/main.fb936c8d.chunk.css.map",
+    "static/js/2.bf765878.chunk.js.LICENSE.txt": "/d3-web-app-demo/static/js/2.bf765878.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.36d605f1.js",
-    "static/js/2.e752c38f.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.37b71a02.chunk.js"
+    "static/css/2.aba519ac.chunk.css",
+    "static/js/2.bf765878.chunk.js",
+    "static/css/main.fb936c8d.chunk.css",
+    "static/js/main.739ad3a5.chunk.js"
   ]
 }
