@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/d3-web-app-demo/static/css/main.5f361e03.chunk.css",
+    "main.js": "/d3-web-app-demo/static/js/main.4d421276.chunk.js",
+    "main.js.map": "/d3-web-app-demo/static/js/main.4d421276.chunk.js.map",
+    "runtime-main.js": "/d3-web-app-demo/static/js/runtime-main.36d605f1.js",
+    "runtime-main.js.map": "/d3-web-app-demo/static/js/runtime-main.36d605f1.js.map",
+    "static/js/2.e752c38f.chunk.js": "/d3-web-app-demo/static/js/2.e752c38f.chunk.js",
+    "static/js/2.e752c38f.chunk.js.map": "/d3-web-app-demo/static/js/2.e752c38f.chunk.js.map",
+    "index.html": "/d3-web-app-demo/index.html",
+    "precache-manifest.4e8e81a980a276f52357c04f9d39d0b6.js": "/d3-web-app-demo/precache-manifest.4e8e81a980a276f52357c04f9d39d0b6.js",
+    "service-worker.js": "/d3-web-app-demo/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/d3-web-app-demo/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e752c38f.chunk.js.LICENSE.txt": "/d3-web-app-demo/static/js/2.e752c38f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/d3-web-app-demo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36d605f1.js",
+    "static/js/2.e752c38f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4d421276.chunk.js"
+  ]
+}
